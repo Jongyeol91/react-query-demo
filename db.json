@@ -1,0 +1,19 @@
+{
+    "todos": [
+        {
+            "id": 1,
+            "name": "name1",
+            "deadline": "2022-01-01"
+        },
+        {
+            "id": 2,
+            "name": "name2",
+            "deadline": "2022-02-02"
+        },
+        {
+            "id": 3,
+            "name": "name3",
+            "deadline": "2022-03-03"
+        }
+    ]
+}
